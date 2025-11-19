@@ -5,4 +5,8 @@ The NYT Vehicle Dealers site is an easy-to-navigate platform that allows users t
 
 ##Features:
 <img width="807" height="935" alt="Screenshot 2025-11-19 111806" src="https://github.com/user-attachments/assets/65c97d9e-0c8f-4824-8ec5-374821a09bf3" />
+<img width="917" height="917" alt="Screenshot 2025-11-19 112058" src="https://github.com/user-attachments/assets/66d4ffd9-7a3a-4efc-88bf-8f94b720985c" />
+
+
+
 
