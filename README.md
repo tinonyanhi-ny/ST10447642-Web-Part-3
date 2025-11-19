@@ -15,6 +15,9 @@ The NYT Vehicle Dealers site is an easy-to-navigate platform that allows users t
 <img width="715" height="906" alt="Screenshot 2025-11-19 112449" src="https://github.com/user-attachments/assets/e5e712f6-ada5-49b1-9d7f-aae8c68fa650" />
 <img width="949" height="898" alt="Screenshot 2025-11-19 112459" src="https://github.com/user-attachments/assets/86cfecb5-7c7e-4e80-a655-6b286ccd641f" />
 
+Referencies: Hyundai. (2025). i20. [online] Available at: https://www.hyundai.com/uk/en/models/i20/design.html [Accessed 26 Sep. 2025]. Butcher, R. (2016). Dodge Ram South Africa. [online] Opensourcecontents.com. Available at:https://opensourcecontents.com/dodge-ram-south-africa/ [Accessed 26 Sep. 2025]. Classic.com. (2021). 2008 Dodge Caliber SRT-4 VIN: 1B3HB68FX8D680956 - CLASSIC.COM. [online] Available at: https://www.classic.com/veh/2008-dodge-caliber-srt-4-1b3hb68fx8d680956-pGO6J6p/ [Accessed 26 Sep. 2025]. CarDekho. (2025). Toyota Fortuner Legender. [online] Available at: https://www.cardekho.com/toyota/fortuner-legender/user-reviews [Accessed 26 Sep. 2025].
+
+
 
 
 
