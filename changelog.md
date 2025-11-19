@@ -100,4 +100,12 @@ Budget range and preferred branch selection
 Enquiry type categorization (vehicle info, test drive, trade-in, etc.)
 Process steps explanation
 Form validation and confirmation
+
+Referencies:
+Hyundai. (2025). i20. [online] Available at: https://www.hyundai.com/uk/en/models/i20/design.html [Accessed 26 Sep. 2025].
+Butcher, R. (2016). Dodge Ram South Africa. [online] Opensourcecontents.com. Available at:https://opensourcecontents.com/dodge-ram-south-africa/ [Accessed 26 Sep. 2025].
+Classic.com. (2021). 2008 Dodge Caliber SRT-4 VIN: 1B3HB68FX8D680956 - CLASSIC.COM. [online] Available at: https://www.classic.com/veh/2008-dodge-caliber-srt-4-1b3hb68fx8d680956-pGO6J6p/ [Accessed 26 Sep. 2025]. CarDekho. (2025). Toyota Fortuner Legender. [online] Available at: https://www.cardekho.com/toyota/fortuner-legender/user-reviews [Accessed 26 Sep. 2025].
+MDN Web Docs. (2024). CSS: Cascading Style Sheets. Mozilla Foundation. Retrieved from https://developer.mozilla.org/en-US/docs/Web/CSS
+MDN Web Docs. (2024). JavaScript Guide. Mozilla Foundation. Retrieved from https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
+W3C. (2024). Web Content Accessibility Guidelines (WCAG) 2.2. World Wide Web Consortium. Retrieved from https://www.w3.org/WAI/standards-guidelines/wcag/
   
